@@ -31,11 +31,11 @@
 
 I am a self-taught passionate FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Front Developer and contributing to frontend and backend for building web applications also cybersecurity.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring academic English langauge.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I do Bug bounty hunting, research and advocate for privacy.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sushant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sushanta-sapkota-40a18b167)
 
