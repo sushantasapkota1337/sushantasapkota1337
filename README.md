@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
   
 </div>
@@ -13,12 +12,13 @@
   <a href="https://twitter.com/sapkota997">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sushantasapkota1337&style=flat-square&color=blue" alt="" />
 </div>
 <h1 align="center">
-  hey there
+  Hello, I'm Sushant. I do open source!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -29,7 +29,8 @@
 ---
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a self-taught passionate FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -67,11 +68,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sushantasapkota1337&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantasapkota1337&langs_count=5&theme=tokyonight)]()
 
 ---
 
-
+<a href="https://twitter.com/sapkota997">
+  <img align="right" alt="Sushanta Sapkota | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/sushantasapkota1337">
+  <img align="right" alt="Sushanta Sapkota| CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
 
 
 
