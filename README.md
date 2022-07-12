@@ -72,10 +72,10 @@ I am a self-taught passionate FrontEnd Developer <img src="https://media.giphy.c
 ---
 
 <a href="https://twitter.com/sapkota997">
-  <img align="right" alt="Sushanta Sapkota | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="Sushanta Sapkota | Twitter" width="21px" src="https://github.com/sushantasapkota1337/sushantasapkota1337/blob/main/twitter.png" />
 </a>
 <a href="https://codesandbox.io/u/sushantasapkota1337">
-  <img align="right" alt="Sushanta Sapkota| CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="right" alt="Sushanta Sapkota| CodeSandbox" width="20px" src="https://github.com/sushantasapkota1337/sushantasapkota1337/blob/main/codesandbox.png" />
 </a>
 
 
