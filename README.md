@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=sushantasapkota1337&style=flat-square&color=blue" alt="" />
 </div>
 <h1 align="center">
-  Hello, I'm Sushant. I do open source!
+  Hello, I'm Sushanta. I do open source!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
